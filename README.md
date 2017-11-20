@@ -1,5 +1,5 @@
 # transhelper
-2段組の論文PDFとかでコピペで入る改行を消してGoogle翻訳とかにぶっこめるようにする
+2段組の論文PDFとかでコピペで入る改行を消して[Google翻訳](https://translate.google.com/?source=gtx)とかにぶっこめるようにする
 
 # 流れ
 英語苦手だけど論文読まなきゃ・・・  
