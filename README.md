@@ -21,6 +21,6 @@
    あとはGoogle翻訳にCtl+vするだけ！  
 
 # 開発・実行環境
-Enthought Canopy 2.1.6
+Enthought Canopy 2.1.6  
 Python 2.7.13  
 PySide 1.2.2
