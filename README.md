@@ -21,6 +21,16 @@
    あとはGoogle翻訳にCtl+vするだけ！  
 
 # 開発・実行環境
-Enthought Canopy 2.1.6  
-Python 2.7.13  
-PySide 1.2.2
+<dl>
+<dt>TransHelper.py</dt>  
+<dd>Enthought Canopy 2.1.6</dd>
+<dd>Python 2.7.13</dd>
+<dd>PySide 1.2.2</dd>
+</dl>
+
+<dl>
+<dt>TransHelper_3.py</dt>  
+<dd>Enthought Canopy 2.1.8</dd>
+<dd>Python 2.5.2</dd>
+<dd>PyQt5</dd>
+</dl>
